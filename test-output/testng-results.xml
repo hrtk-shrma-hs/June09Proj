@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-09T22:56:45 IST" name="Suite" finished-at="2023-06-09T22:57:17 IST" duration-ms="31839">
+    <groups>
+    </groups>
+    <test started-at="2023-06-09T22:56:45 IST" name="Chrome Test" finished-at="2023-06-09T22:57:17 IST" duration-ms="31734">
+      <class name="Project.Flipkart.TestCaseFlipkart">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Project.Flipkart.TestCaseFlipkart@5fbdfdcf]" started-at="2023-06-09T22:56:45 IST" name="setup" finished-at="2023-06-09T22:56:55 IST" duration-ms="9717" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Scenario()[pri:0, instance:Project.Flipkart.TestCaseFlipkart@5fbdfdcf]" started-at="2023-06-09T22:56:55 IST" name="Scenario" finished-at="2023-06-09T22:57:17 IST" duration-ms="21943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario -->
+      </class> <!-- Project.Flipkart.TestCaseFlipkart -->
+    </test> <!-- Chrome Test -->
+    <test started-at="2023-06-09T22:56:45 IST" name="Firefox Test" finished-at="2023-06-09T22:57:17 IST" duration-ms="31839">
+      <class name="Project.Flipkart.TestCaseFlipkart">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Project.Flipkart.TestCaseFlipkart@bae7dc0]" started-at="2023-06-09T22:56:45 IST" name="setup" finished-at="2023-06-09T22:56:55 IST" duration-ms="9443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6666]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Scenario()[pri:0, instance:Project.Flipkart.TestCaseFlipkart@bae7dc0]" started-at="2023-06-09T22:56:55 IST" name="Scenario" finished-at="2023-06-09T22:57:17 IST" duration-ms="22280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario -->
+      </class> <!-- Project.Flipkart.TestCaseFlipkart -->
+    </test> <!-- Firefox Test -->
+  </suite> <!-- Suite -->
+</testng-results>
